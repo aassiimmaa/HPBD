@@ -329,7 +329,7 @@ h1 {
 
 
 .wishes-container{
-	height: 345px;
+	min-height: 345px;
 	width: 478px;
 	background: #fff;
 	background-image: linear-gradient(#e66465, #9198e5);
