@@ -85,13 +85,14 @@
     }
 
     .avatar {
-        left: 30%;
+        left: 12%;
         top: -5%;
     }
 
     .avatar-img {
         width: 180px;
         height: 180px;
+        margin-right: 36px;
     }
 
     .avatar-title {
@@ -106,10 +107,15 @@
 
     }
 
+    .wishes-container {
+        max-width: calc(100% - 24px);
+
+    }
+
 }
 
 
-@media (min-width: 390px) and (max-width: 740px) {
+@media (min-width: 391px) and (max-width: 740px) {
     html {
         overflow: hidden;
     }
@@ -196,13 +202,14 @@
     }
 
     .avatar {
-        left: 30%;
-        top: 50%;
+        left: 20%;
+        top: -3%;
     }
 
     .avatar-img {
-        width: 180px;
-        height: 180px;
+        width: 200px;
+        height: 200px;
+        margin-left: 36px;
     }
 
     .avatar-title {
@@ -214,6 +221,11 @@
         font-size: 45px;
         top: 7px;
         left: 75%;
+
+    }
+
+    .wishes-container {
+        max-width: calc(100% - 24px);
 
     }
 }
