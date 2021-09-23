@@ -4,7 +4,7 @@
     }
 
     body {
-        margin-top: 5px;
+        margin-top: -5px;
         overflow: hidden;
     }
 
@@ -86,7 +86,7 @@
 
     .avatar {
         left: 30%;
-        top: 50%%;
+        top: -5%;
     }
 
     .avatar-img {
@@ -102,7 +102,7 @@
     span {
         font-size: 45px;
         top: 7px;
-        left: 75%;
+        left: 60%;
 
     }
 
