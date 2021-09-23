@@ -269,7 +269,7 @@ body {
 
 .avatar-title {
     cursor: pointer;
-    margin-top: -175px;
+    margin-top: -185px;
     opacity: 0.8;
     animation: balloon1 4s ease-in-out infinite;
     text-align: center;
