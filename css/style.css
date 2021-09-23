@@ -243,7 +243,7 @@ body {
 
 .avatar {
     position: absolute;
-    top: 50%;
+    top: -25%;
     left: 25%;
 }
 
@@ -252,7 +252,7 @@ body {
     width: 200px;
     height: 200px;
     border-radius: 50%;
-    border: 5px solid #dee;
+    border: 5px solid #A0522D;
     box-shadow: inset 10px 10px 10px rgba(15, 219, 234, 0.9);
     animation: balloon4 6s ease-in-out infinite;
     margin-top: 340px;
